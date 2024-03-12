@@ -1,0 +1,26 @@
+{
+  "name": "backend-project",
+  "version": "1.0.0",
+  "description": "backend project by nodejs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lamluongkhe/backendNodejs.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "lamluongkhe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lamluongkhe/backendNodejs/issues"
+  },
+  "homepage": "https://github.com/lamluongkhe/backendNodejs#readme",
+  "dependencies": {
+    "express": "4.18.2"
+  }
+}
